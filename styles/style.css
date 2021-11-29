@@ -41,7 +41,7 @@
   font-weight: bold;
   line-height: 96px;
   align-self: center;
-  margin-left: 64px;
+  margin: 0 0 0 64px;
   display: inline-block;
   z-index: 4;
 }
@@ -50,6 +50,7 @@
   position: absolute;
   bottom: 30px;
   left: 64px;
+  margin: 0;
   width: 388px;
   line-height: 25px;
   font-size: 18px;
@@ -314,6 +315,7 @@
 .footer__author {
   line-height: 25px;
   font-size: 18px;
+  margin: 18px 0;
 }
 
 .footer__social-icon {
