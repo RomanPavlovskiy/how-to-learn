@@ -194,7 +194,7 @@
 
 .feynman {
   position: relative;
-  height: 790px;
+  min-height: 890px;
   margin-bottom: 0px;
   padding-top: 80px;
   background-color: #F2F2F2;
