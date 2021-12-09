@@ -2,6 +2,7 @@
   width: 100%;
   margin-top: 100px;
   overflow: visible;
-  height: 440px;
+  position: relative;
+  top: 40px;
   border: 0;
 }
